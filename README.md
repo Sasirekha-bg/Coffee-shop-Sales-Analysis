@@ -36,9 +36,9 @@ You can view and download the dashboard [here](https://1drv.ms/x/s!AncCHMR1Yhkbl
 
 These insights can guide promotions, staffing, and product focus.
 
-## Dashboard
+## Screenshot
 
-![Dashboard Screenshot](Coffe shop sales dashboard.png).
+![Dashboard Screenshot](https://github.com/Sasirekha-bg/Coffee-shop-Sales-Analysis/blob/main/Coffe%20shop%20sales%20dashboard.png).
 
 
 
