@@ -38,7 +38,7 @@ These insights can guide promotions, staffing, and product focus.
 
 ## Dashboard
 
-![Dashboard Screenshot](C:\Users\shobh\OneDrive\Pictures\Screenshots\Coffe shop sales dashboard.png).
+![Dashboard Screenshot](Coffe shop sales dashboard.png).
 
 
 
