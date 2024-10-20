@@ -26,3 +26,14 @@ The sales data includes the following fields:
 
 You can view and download the dashboard [here](https://1drv.ms/x/s!AncCHMR1YhkblZVcNZPivd-6CT8n9w?e=xsCLK2).
 
+## Insights from Dashboard
+
+1. **Monthly Revenue**: Steady growth from Jan to May.
+2. **Weekly Transactions**: Thursday busiest, Saturday slowest.
+3. **Top Product**: Brewed Chai tea for transactions; Barista Espresso for revenue.
+4. **Category Leader**: Coffee dominates.
+5. **Daily Peak**: Most transactions on the 9th; least on the 20th.
+
+These insights can guide promotions, staffing, and product focus.
+
+
